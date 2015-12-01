@@ -1,4 +1,4 @@
-*{ outline: 1px dotted #006600; } 
+/* *{ outline: 1px dotted #006600; }  */
 .screenreader{position:absolute; left:-999px;}
 body {background:  #0E401D;  color: #ffffff;
   font-weight: 400;  font-size: 80%;
